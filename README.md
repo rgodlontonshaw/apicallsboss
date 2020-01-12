@@ -1,8 +1,6 @@
-# apicallsboss
+# APICALLSBOSS [![Flutter logo][]][flutter.dev]
 
 Chuck Norris - API Flutter Calls Tutorial Like a Boss
-
-# APICALLSBOSS [![Flutter logo][]][flutter.dev]
 
 Demo app to showcase the use of Flutter API calls using Bloc architecture.
 
@@ -11,7 +9,7 @@ https://itnext.io/apicalls
 
 ### Screenshots
 
-<img src="assets/screenshots/screen1.png" height="600em" /> <img src="assets/screenshots/sscreen2.png" height="600em" />
+<img src="assets/screenshots/screen1.jpg" height="600em" /> <img src="assets/screenshots/sscreen2.jpg" height="600em" />
  
     
 # [![Flutter logo][]][flutter.dev]
