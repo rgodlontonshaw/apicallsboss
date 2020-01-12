@@ -9,7 +9,7 @@ https://itnext.io/apicalls
 
 ### Screenshots
 
-<img src="assets/screenshots/screen1.jpg" height="600em" /> <img src="assets/screenshots/sscreen2.jpg" height="600em" />
+<img src="assets/screenshots/screen1.jpg" height="600em" /> <img src="assets/screenshots/screen2.jpg" height="600em" />
  
     
 # [![Flutter logo][]][flutter.dev]
