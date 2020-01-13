@@ -9,4 +9,7 @@
     <option name="sourceMapEmbedSources" />
     <option name="sourceMapPrefix" />
   </component>
+  <component name="ProjectType">
+    <option name="id" value="io.flutter" />
+  </component>
 </project>
