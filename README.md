@@ -4,7 +4,8 @@ Chuck Norris - API Flutter Calls Tutorial Like a Boss
 
 Demo app to showcase the use of Flutter API calls using Bloc architecture.
 
-Tutorial can be found here. 
+Tutorial can be found here: 
+##
 https://itnext.io/flutter-handling-your-network-api-calls-like-a-boss-936eef296547#82f9-863e57a272d4
 
 ### Screenshots
