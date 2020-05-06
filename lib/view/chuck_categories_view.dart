@@ -6,10 +6,10 @@ import 'package:apicallsboss/view/chuck_joke_view.dart';
 
 class GetChuckCategories extends StatefulWidget {
   @override
-  _GetShaftsState createState() => _GetShaftsState();
+  _GetChuckyState createState() => _GetChuckyState();
 }
 
-class _GetShaftsState extends State<GetChuckCategories> {
+class _GetChuckyState extends State<GetChuckCategories> {
   ChuckCategoryBloc _bloc;
 
   @override
